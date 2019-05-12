@@ -1,0 +1,6 @@
+token=NTc2OTE2ODU1Mzk5MTIwOTMw.XNdjOw.ybwu0zxKL1r48x16A8Xnwpq1cYs
+owner=450822258605424642
+prefix=3
+game=Elite kinankingyt ,3play
+stayinchannel=true
+songinstatus=true
